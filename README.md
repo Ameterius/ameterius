@@ -9,10 +9,9 @@ typedef struct
   int age;
   char* name;
   char* crush;
-  _Bool genshin_player;
 } littery;
 
-void main(){littery me = {15, "Grigoriy", "core dumped", true};}
+void main(){littery me = {15, "Grigoriy", "core dumped"};}
 ````
 
 ### 💻 Tech Stacks
