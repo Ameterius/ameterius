@@ -1,18 +1,9 @@
-## 👋 Hello everyone
-![senkoonelove](https://github.com/user-attachments/assets/1b550252-d34a-4350-9232-3982f96f09ae)
+# Hello
 
-### 📝 Briefly about me
+## About me:
 
-```c
-typedef struct
-{
-  int age;
-  char* name;
-  char* crush;
-} littery;
+> Just a simple Russian teen from NSK, with zero inventiveness. A fan of depressive music (not always). Navigating the boundary between "Плохо — похуй, плохо — похуй, похуй — похуй, снова плохо, похуй — похуй, плохо — плохо".
 
-void main(){littery me = {15, "Grigoriy", "core dumped"};}
-````
 
 ### 💻 Tech Stacks
 
@@ -20,8 +11,14 @@ void main(){littery me = {15, "Grigoriy", "core dumped"};}
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge\&logo=lua\&logoColor=white)
 [![Newbi](https://img.shields.io/badge/Newbi-grey?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Ameterius/newbie-vm)
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameterius\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameterius\&layout=compact\&theme=tokyonight)
 
+### Available for orders
+#### Russia (+ CIS):
+[![KWork](https://img.shields.io/badge/-KWork-F4AF47?logo=framework&logoColor=white)](https://kwork.ru/user/oxitice)
+#### Other countries:
+????
