@@ -16,8 +16,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameterius\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameterius\&layout=compact\&theme=tokyonight)
 
-### Available for orders
-#### Russia (+ CIS):
-[![KWork](https://img.shields.io/badge/-KWork-F4AF47?logo=framework&logoColor=white)](https://kwork.ru/user/oxitice)
-#### Other countries:
-????
+
