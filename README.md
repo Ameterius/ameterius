@@ -16,4 +16,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameterius\&show_icons=true\&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameterius\&layout=compact\&theme=tokyonight)
 
-
+---
+Support:
+https://dalink.to/ameterius \
+(sorry, i'am from Russia, and i don't have Patreon :C)
