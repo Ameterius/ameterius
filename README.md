@@ -2,7 +2,7 @@
 
 ## About me:
 
-> Just a simple Russian teen from NSK, with zero inventiveness. A fan of depressive music (not always). Navigating the boundary between "Плохо — похуй, плохо — похуй, похуй — похуй, снова плохо, похуй — похуй, плохо — плохо".
+> Just an ordinary Russian teenager with no initiative and crappy code (but at least not a Vibecoder)
 
 
 ### 💻 Tech Stacks
