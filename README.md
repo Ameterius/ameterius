@@ -17,4 +17,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameterius\&layout=compact\&theme=tokyonight)
 
 ---
-Mirror: https://gitlab.com/ametero \
+Mirror: https://gitlab.com/ametero
